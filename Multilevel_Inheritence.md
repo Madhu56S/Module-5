@@ -51,7 +51,6 @@ gc = Grandchild(name,age,loc)
 print(gc.getName(), gc.getAge(), gc.getLocation())
 ```
 
-
 ## Sample Output
 <img width="584" height="181" alt="image" src="https://github.com/user-attachments/assets/a6daf76c-68b7-407e-88c9-0247a6f034da" />
 
